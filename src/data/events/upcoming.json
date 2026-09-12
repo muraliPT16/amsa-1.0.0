@@ -1,0 +1,32 @@
+[
+  {
+    "id": "26_apl_badminton",
+    "title": "APL Badminton Tournament (Doubles)",
+    "date": "2026-09-19",
+    "category": "Sports",
+    "description": "AMSA Premier League begin officialy. Get ready to battle it all out in the first sporting tournament of the academic year, Doubles Badminton. Register Now using the link below.",
+    "location": "Sitara Indoor Sports Complex",
+    "time": "09:00 AM - 03:00 PM",
+    "poster": "",
+    "speaker": "",
+    "edition": "",
+    "link": "https://forms.gle/67rxq6DCyktp14VQA"
+  },
+
+
+  {
+    "id": "26_freshers",
+    "title": "AMSA Fresher's Night",
+    "date": "2026-09-25",
+    "category": "Event",
+    "description": "Celebrating the arrival of 2026 freshers, loud and proud. Join us in kickstarting your journey in the department with food, dance and lots of memories.",
+    "location": "Students Activity Center (SAC)",
+    "time": "From 06:00 PM",
+    "poster": "",
+    "video": "",
+    "speaker": "",
+    "speaker2": "",
+    "edition": "2026",
+    "link": ""
+  }
+]

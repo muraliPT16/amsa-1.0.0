@@ -1,0 +1,77 @@
+{
+  "carousel": [
+    {
+      "id": "slide-1",
+      "image": "/images/carousel/rp25.png",
+      "title": "Research Palooza 2025",
+      "description": "The annual flagship event from the Department of Applied Mechanics & Biomedical Engineering."
+    },
+    {
+      "id": "slide-2",
+      "image": "/images/carousel/cy3.jpg",
+      "title": "Chandrayan-3 Launch",
+      "description": "Witnessing history live at the launch of Chandrayan-3."
+    },
+    {
+      "id": "slide-3",
+      "image": "/images/carousel/42exp.png",
+      "title": "42 Explained! ",
+      "description": "A lecture series where leading experts simplify complex research topics through engaging and accessible discussions."
+    },
+    {
+      "id": "slide-4",
+      "image": "/images/carousel/apl_badminton.jpg",
+      "title": "APL Badminton 2026",
+      "description": "AMSA Premier League 2026, our annual intra-department tournament among the faculty and students"
+    },
+    {
+      "id": "slide-5",
+      "image": "/images/carousel/dinner_btech.jpeg",
+      "title": "Faculty-Student Dinner Session",
+      "description": "Undergraduate students of 2025 batch had an interactive dinner session with the faculty of AMBE."
+    },
+    {
+      "id": "slide-6",
+      "image": "/images/carousel/chalk_talk.png",
+      "title": "Chalk talk Series",
+      "description": "A platform where in-house researchers demystify their work using nothing more than a pen and a board"
+    },
+    {
+      "id": "slide-7",
+      "image": "/images/carousel/perfint_iv.jpeg",
+      "title": "Industrial Visit",
+      "description": "An industrial visit from iBME students (batch of 2025), visiting Perfint Healthcare. "
+    }
+  ],
+  "aboutSection": {
+    "tagline": "WHO WE ARE",
+    "title": "A Community Built to Explore, Connect & Create",
+    "description": "The Applied Mechanics Student Association is the official student-led community of the Department of Applied Mechanics and Biomedical Engineering, IIT Madras. We bring together students across the department to learn, collaborate, innovate, and grow. From academic resources and research initiatives to talks, workshops, and industry interactions, we create opportunities to take learning beyond the classroom.",
+    "ctaAboutText": "Learn More About Us",
+    "ctaAboutLink": "/about",
+    "ctaTeamText": "Meet The Team",
+    "ctaTeamLink": "/team"
+  },
+  "stats": [
+    {
+      "value": 500,
+      "suffix": "+",
+      "label": "Active Members"
+    },
+    {
+      "value": 40,
+      "suffix": "+",
+      "label": "Events Hosted"
+    },
+    {
+      "value": 150,
+      "suffix": "+",
+      "label": "Alumni Connected"
+    },
+    {
+      "value": 10,
+      "suffix": "+",
+      "label": "R&D Collaborations"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "header": {
+    "tag": "Your Well-Being Matters. You Matter.",
+    "title": "Wellness Portal",
+    "subtitle": "Your well-being is an essential part of your journey at IIT Madras. Comprehensive health, counselling, and emotional wellness support is available to every student, whenever you need it."
+  },
+  "emergencyHelplines": [
+    {
+      "id": "em-1",
+      "name": "IITM Hospital Emergency",
+      "phone": "044-2257-8888",
+      "altPhone": "044-2257-8330",
+      "available": "24/7 Available",
+      "description": "Round-the-clock emergency medical response and institute ambulance dispatch.",
+      "badge": "Medical Crisis",
+      "color": "red"
+    },
+    {
+      "id": "em-2",
+      "name": "Institute Security Control Room",
+      "phone": "044-2257-9999",
+      "altPhone": "044-2257-8280",
+      "available": "24/7 Campus Safety",
+      "description": "Campus security, night escort assistance, and emergency rescue services.",
+      "badge": "Campus Safety",
+      "color": "blue"
+    },
+    {
+      "id": "em-3",
+      "name": "Tele-MANAS National Helpline",
+      "phone": "14416",
+      "altPhone": "1800-891-4416",
+      "available": "24/7 Toll-Free",
+      "description": "Government of India national tele-mental health support across all regional languages.",
+      "badge": "National Helpline",
+      "color": "teal"
+    }
+  ],
+  "supportServices": [
+    {
+      "id": "serv-1",
+      "title": "IIT Madras Wellness Community Center",
+      "category": "Counseling & Psychological Support",
+      "description": "The Institute Wellness Community Center offers free, confidential counseling by licensed clinical psychologists and trained wellness counselors. Students can discuss academic pressure, personal concerns, stress, anxiety, or relationship issues in a safe, non-judgmental space.",
+      "location": "1st floor, DoSt Office",
+      "timings": "Monday – Saturday: 10:00 AM – 6:00 PM (Appointments & Walk-ins)",
+      "email": "wellness1@smail.iitm.ac.in",
+      "phone": "044-2257-8521",
+      "website": "https://dost.iitm.ac.in/wellness-center",
+      "bookingLink": "",
+      "features": [
+        "One-on-one confidential therapy sessions",
+        "Group wellness workshops & mindfulness sessions",
+        "Stress management & relaxation therapies",
+        "Psychiatric consultations on referral"
+      ]
+    },
+    {
+      "id": "serv-2",
+      "title": "Saathi & MITR Peer Mentorship",
+      "category": "Peer Support & Student Mentorship",
+      "description": "Saathi is IIT Madras's student-led wellness body, dedicated to mental health awareness, destigmatization, and proactive student welfare. MITR comprises trained faculty and senior student mentors who provide confidential guidance and peer listening.",
+      "location": "Any location",
+      "timings": "24/7 Student Reach-out & Peer Support",
+      "email": "mitr@iitm.ac.in",
+      "phone": "",
+      "website": "https://dost.iitm.ac.in/mitr/index.html",
+      "bookingLink": "https://dost.iitm.ac.in/mitr/emergency.html",
+      "features": [
+        "Peer-to-peer listening without judgment",
+        "Hostel & Department wellness champions",
+        "De-stressing campaigns during quiz and exam weeks",
+        "Anonymous feedback and grievance redressal support"
+      ]
+    },
+    {
+      "id": "serv-3",
+      "title": "IIT Madras Institute Hospital",
+      "category": "Physical Health & Medical Facilities",
+      "description": "A full-fledged hospital facility inside the campus equipped with 24/7 Casualty & Outpatient Department (OPD), modern diagnostic laboratory, digital X-Ray, in-house pharmacy, and specialist visiting doctors (Cardiology, Orthopaedics, Dermatology, ENT, Dentistry, Psychiatry).",
+      "location": "Institute Hospital, Gajendra Circle Road, IIT Madras",
+      "timings": "OPD: 8:00 AM – 1:00 PM & 4:00 PM – 7:00 PM | Casualty: 24/7",
+      "email": "cmo@iitm.ac.in",
+      "phone": "044-2257-8330",
+      "website": "",
+      "bookingLink": "",
+      "features": [
+        "Round-the-clock emergency medical response and ICU ambulance",
+        "Free consultation and subsidized medications for students",
+        "Student Medical Insurance Cashless coverage desk",
+        "Physiotherapy, clinical diagnostics, and vaccination center"
+      ]
+    },
+    {
+      "id": "serv-4",
+      "title": "Online Tele-Counseling (24/7 Access)",
+      "category": "Digital & Remote Wellness",
+      "description": "IIT Madras provides all enrolled students with free, unlimited access to leading online mental health platforms. Connect 24x7 via text chat, audio, or video calls from the comfort of your hostel room with certified therapists.",
+      "location": "Online via Web & Mobile App",
+      "timings": "24 Hours a Day, 365 Days a Year",
+      "email": "support@yourdost.com",
+      "phone": "1800-425-4486",
+      "website": "https://yourdost.com",
+      "bookingLink": "https://yourdost.com/iitm",
+      "features": [
+        "Instant text chat with trained counselors anytime",
+        "Confidential audio & video appointments",
+        "Self-help assessments, guided meditations & audio tracks",
+        "Multi-lingual counseling in English, Hindi, Tamil, Telugu, and more"
+      ]
+    }
+  ],
+  "amsaInitiatives": [
+    {
+      "id": "init-1",
+      "title": "Department Buddy & Mentor System",
+      "description": "Every incoming UG and PG student is paired with a departmental senior mentor who offers guidance on academic workloads, research lab navigation, and campus life adjustments.",
+      "icon": "Users"
+    },
+    {
+      "id": "init-2",
+      "title": "De-Stress Gatherings & Chai Pe Charcha",
+      "description": "Informal evening sessions organized by AMSA during mid-term and end-term exam periods to relax over tea, games, and music with fellow batchmates.",
+      "icon": "Coffee"
+    },
+    {
+      "id": "init-3",
+      "title": "Sports & Recreational Tournaments",
+      "description": "Department cricket, badminton (APL), and indoor tournaments designed to keep students physically active, refreshed, and socially connected.",
+      "icon": "Activity"
+    },
+    {
+      "id": "init-4",
+      "title": "Faculty-Student Connect Sessions",
+      "description": "Open interactive forums where students can openly share academic stress or feedback directly with faculty advisors in a supportive setting.",
+      "icon": "Smile"
+    }
+  ],
+  "selfCareResources": [
+    {
+      "id": "res-1",
+      "title": "Managing Academic & Research Stress",
+      "type": "Guide & Techniques",
+      "points": [
+        "Break large thesis/coursework milestones into small achievable tasks.",
+        "Maintain open communication with your guide/advisors early when stuck.",
+        "Set strict boundaries between lab hours and personal recharge time."
+      ]
+    },
+    {
+      "id": "res-2",
+      "title": "Sleep Hygiene for Students",
+      "type": "Wellness Protocol",
+      "points": [
+        "Aim for 7–8 hours of consistent sleep schedule even during project deadlines.",
+        "Avoid blue light screens at least 30 minutes before bedtime.",
+        "Keep your hostel room dark, quiet, and well-ventilated."
+      ]
+    },
+    {
+      "id": "res-3",
+      "title": "Physical Fitness on Campus",
+      "type": "Recreational Facilities",
+      "points": [
+        "Access the Institute Gym, Swimming Pool, and Sports Facilities inside the campus.",
+        "Take regular evening walks along the lush green campus trails.",
+        "Watch out for emails regarding special mindfulness sessions."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is counseling at the Wellness Center confidential?",
+      "answer": "Yes, absolutely 100% confidential. All discussions with counselors and clinical psychologists remain strictly confidential. Information is never shared with professors, department heads, parents, or future employers, adhering to strict medical ethics."
+    },
+    {
+      "question": "How can I book an appointment with a counsellor?",
+      "answer": "You can call the wellness office at 044-2257-8521, email wellness1@smail.iitm.ac.in, or simply walk in to the Wellness Community Center near the Institute Hospital during working hours."
+    },
+    {
+      "question": "What should I do in an emergency late at night?",
+      "answer": "For immediate physical medical emergencies, call the Institute Hospital Casualty at 044-2257-8333 / 8888 for immediate doctor assistance and ambulance dispatch. For urgent emotional distress or mental health crisis, call the 24x7 Saathi Helpline at 044-2257-5555 or the Tele-MANAS toll-free national helpline at 14416."
+    },
+    {
+      "question": "Are hospital consultations and medicines free for students?",
+      "answer": "General outpatient consultations and regular essential medicines dispensed at the Institute Hospital pharmacy are free for all enrolled IIT Madras students. Hospitalization and specialized external treatments are covered under the Student Medical Insurance Scheme."
+    },
+    {
+      "question": "How can I get involved or reach out to the AMSA wellness team?",
+      "answer": "You can reach out to any member of the AMSA Executive Team or your departmental mentor. You can also write directly to amsa@smail.iitm.ac.in or drop a message via the Contact Us page."
+    }
+  ]
+}

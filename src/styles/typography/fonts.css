@@ -1,0 +1,27 @@
+body {
+  font-family: var(--font-sans);
+  font-weight: 400;
+  color: var(--color-ink);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Major titles (page heroes, primary section headers) use Google Sans */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-google);
+}
+
+/* Optional display serif for editorial accents or quotes */
+.font-display {
+  font-family: var(--font-display);
+}
+
+/* Lora font class */
+.font-lora {
+  font-family: var(--font-lora);
+}
+
+/* Montserrat font class */
+.font-montserrat {
+  font-family: var(--font-montserrat);
+}

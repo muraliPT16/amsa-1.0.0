@@ -1,0 +1,84 @@
+{
+  "header": {
+    "tag": "Applied Mechanics Student Association",
+    "title": "About AMSA",
+    "subtitle": "Department of Applied Mechanics and Biomedical Engineering"
+  },
+  "associationProfile": {
+    "tag": "Association Profile",
+    "title": "The Student Association",
+    "history": [
+      "The Applied Mechanics Student Association (AMSA) is the apex student body representing the vibrant undergraduate, postgraduate, and research scholar community within our department. We serve as the vital bridge connecting students, faculty, alumni, and industry professionals. By fusing the rigorous analytical frameworks of classical mechanics with the life-changing innovations of healthcare technology, our association nurtures a unique ecosystem where theoretical science meets empathetic engineering.",
+      "We design, coordinate, and execute a comprehensive calendar of initiatives aimed at holistic student development. From hosting national-level technical symposiums, hands-on workshops, and hackathons to organizing industry visits and alumni mentorship panels, we ensure our peers look beyond the whiteboard. We also actively curate peer-to-peer learning groups and handle student advocacy, ensuring every voice in the department is heard and supported."
+    ]
+  },
+  "academicContext": {
+    "tag": "Academic Context",
+    "title": "Our Department",
+    "paragraphs": [
+      "The Department of Applied Mechanics & Biomedical Engineering stands as a beacon of academic excellence, distinguished by its unique dual focus. On one side, it delves into the foundational principles of fluid dynamics, solid mechanics, and materials science-the core forces that govern the physical world. On the other, it pioneeringly applies these exact engineering principles to the human body, driving innovations in medical instrumentation, biomaterials, computational biomechanics, and tissue engineering.",
+      "Equipped with state-of-the-art research laboratories and guided by a world-class faculty, the department is a powerhouse of academic rigor and translational research. We don't just study mechanics or biology in isolation; we train the next generation of engineers to view the human body as a complex mechanical system and industrial challenges through the lens of advanced physics."
+    ],
+    "websiteLink": {
+      "text": "Visit our Department Website",
+      "url": "https://apm.iitm.ac.in/"
+    }
+  },
+  "corePurpose": {
+    "tag": "Our Core Purpose",
+    "title": "Why We Do What We Do",
+    "description": "We exist to transform education into a collaborative journey by fostering leadership, adaptability, and practical problem-solving. Through a connected and supportive community, we empower every student with meaningful opportunities for academic, professional, and personal growth.",
+    "subtext": "Through events, collaborations, and student-led initiatives, we foster innovation, nurture talent, build lasting connections, and empower students to become skilled engineers, researchers, and responsible leaders who create a positive impact on society."
+  },
+  "visionMission": {
+    "vision": "To cultivate a globally recognized, dynamic, and inclusive student community that inspires innovation, fosters academic excellence, nurtures leadership, and promotes interdisciplinary collaboration, empowering future engineers and researchers to create meaningful impact in society.",
+    "mission": "Our mission is to enrich student learning through research, innovation, industry exposure, and leadership opportunities while fostering interdisciplinary collaboration and a research-driven mindset, supported by a strong network of faculty, alumni, and industry partners."
+  },
+  "objectivesSection": {
+    "tag": "Our Strategy",
+    "title": "Core Operational Goals",
+    "objectives": [
+      "Advance learning through workshops, lectures, discussions, and knowledge-sharing beyond the classroom.",
+      "Strengthen industry readiness by equipping students with industry exposure, career guidance, internships, networking, and professional skills.",
+      "Inspire creative problem-solving, interdisciplinary innovation, and entrepreneurial thinking to address real-world challenges.",
+      "Cultivate an inclusive, supportive community that promotes collaboration, personal growth, and student well-being."
+    ]
+  },
+  "timeline": [
+    {
+      "year": "1959 - 1969",
+      "title": "Inception of the Department",
+      "description": "One of the founding departments at Indian Institute of Technology Madras, encompassing both Applied Mechanics and Aerospace Engineering. Later became an independent department, called the Department of Applied Mechanics in 1969."
+    },
+    {
+      "year": "2023",
+      "title": "Department of Applied Mechanics & Biomedical Engineering",
+      "description": "Renamed the department to better reflect its interdisciplinary focus."
+    },
+    {
+      "year": "2023",
+      "title": "Association Foundation",
+      "description": "Applied Mechanics Scholars Association (AMSA) was established to represent the student community within the department and the university."
+    },
+    {
+      "year": "2023",
+      "title": "Flagship Event Research Palooza",
+      "description": "Launched the first annual Research Symposium, providing a platform for the student community."
+    },
+    {
+      "year": "2025",
+      "title": "Introduction of UG Programs",
+      "description": "The first batch of B.Tech (UG) joined the department."
+    },
+    {
+      "year": "2026",
+      "title": "Applied Mechanics Student Association",
+      "description": "Renamed the association to Applied Mechanics Student Association to include all sections of the student community within the department"
+    }
+  ],
+  "teamReferral": {
+    "title": "Meet the Executive Board",
+    "description": "Discover the student leaders, coordinators, and faculty advisors directing AMSA's academic, operational, and technical programs.",
+    "buttonText": "Meet the Team"
+  }
+}

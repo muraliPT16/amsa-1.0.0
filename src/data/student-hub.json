@@ -1,0 +1,28 @@
+{
+  "resources": [
+    { "id": "res-1", "title": "Musculoskeletal Biomechanics Textbook (PDF)", "type": "Textbook", "size": "15 MB" },
+    { "id": "res-2", "title": "Finite Element Analysis Lab Manual", "type": "Lab Manual", "size": "4.2 MB" },
+    { "id": "res-3", "title": "Fluid Dynamics in Physiological Systems Lecture Slides", "type": "Lecture Slides", "size": "8.7 MB" }
+  ],
+  "internships": [
+    { "id": "sh-int-1", "company": "BioSensors Lab", "role": "Research Intern", "deadline": "July 12, 2026", "requirements": "Basic programming in MATLAB, signal processing concepts." },
+    { "id": "sh-int-2", "company": "OrthoTech Ltd.", "role": "Mechanical Design Intern", "deadline": "July 20, 2026", "requirements": "Proficiency in CAD meshing (SolidWorks / Fusion 360)." }
+  ],
+  "placements": [
+    { "id": "plc-1", "company": "GE Healthcare", "role": "Biomedical Systems Engineer", "package": "Competitive", "eligibility": "M.Tech / B.Tech (CGPA > 8.0)" },
+    { "id": "plc-2", "company": "Philips Respirometrics", "role": "Junior Design Engineer", "package": "Competitive", "eligibility": "B.Tech in Mechanical or Biomedical" }
+  ],
+  "competitions": [
+    { "id": "comp-1", "title": "National BioDesign Contest 2026", "prize": "$5,000", "deadline": "August 30, 2026", "link": "https://biodesign2026.org" }
+  ],
+  "scholarships": [
+    { "id": "schol-1", "name": "Departmental Merit Fellowship", "amount": "$2,000 per Semester", "eligibility": "Top 5% performers in Applied Mechanics" }
+  ],
+  "higherStudies": [
+    { "id": "hs-1", "university": "ETH Zurich", "program": "Ph.D. in Biomechanics & Mechanical Modelling", "deadline": "September 15, 2026" },
+    { "id": "hs-2", "university": "Imperial College London", "program": "M.Sc. in Biomedical Robotics", "deadline": "November 01, 2026" }
+  ],
+  "careerGuidance": [
+    { "id": "cg-1", "title": "Navigating the Medical Devices Industry", "speaker": "Alumni Dr. Kenji Sato", "date": "July 24, 2026", "platform": "Zoom Meeting" }
+  ]
+}

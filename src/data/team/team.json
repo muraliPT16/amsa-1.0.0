@@ -1,0 +1,266 @@
+{
+  "advisors": [
+    {
+      "id": "advisor-1",
+      "name": "Dr. Sayan Gupta",
+      "role": "Head of Department (HOD)",
+      "vertical": "Patrons & Advisors",
+      "image": "/images/team/prof_sayan.jpg",
+      "email": "amhead@iitm.ac.in",
+      "socials": {
+        "linkedin": "",
+        "instagram": ""
+      }
+    },
+    {
+      "id": "advisor-2",
+      "name": "Dr. S Ganga Prasath",
+      "role": "Faculty Advisor",
+      "vertical": "Patrons & Advisors",
+      "image": "/images/team/prof_ganga.jpg",
+      "email": "sgangaprasath@iitm.ac.in",
+      "socials": {
+        "linkedin": "",
+        "instagram": ""
+      }
+    }
+  ],
+  "secretaries": [
+    {
+      "id": "sec-1",
+      "name": "Muralidharan P T",
+      "role": "General Secretary",
+      "vertical": "Secretaries",
+      "image": "/images/team/murali.jpg",
+      "email": "am25s011@smail.iitm.ac.in",
+      "socials": {
+        "linkedin": "",
+        "instagram": "https://instagram.com/murali_p_t"
+      }
+    },
+    {
+      "id": "sec-2",
+      "name": "A Sai Kiran",
+      "role": "UG Secretary",
+      "vertical": "Secretaries",
+      "image": "/images/team/sai.jpeg",
+      "email": "am25b132@smail.iitm.ac.in",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/a-sai-kiran-22290b382/",
+        "instagram": "https://www.instagram.com/sai_kiran2007/"
+      }
+    },
+    {
+      "id": "sec-3",
+      "name": "Nirav R Vijay",
+      "role": "UG Secretary",
+      "vertical": "Secretaries",
+      "image": "/images/team/nirav.jpeg",
+      "email": "am25b023@smail.iitm.ac.in",
+      "socials": {
+        "linkedin": "https://in.linkedin.com/in/nirav-r-vijay-4b8313391",
+        "instagram": ""
+      }
+    },
+    {
+      "id": "sec-4",
+      "name": "Mihika Maddala",
+      "role": "Treasurer",
+      "vertical": "Secretaries",
+      "image": "/images/team/mihika.jpg",
+      "email": "am25b121@smail.iitm.ac.in",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/mihika-maddala-036027413",
+        "instagram": "https://www.instagram.com/mihi_m7"
+      }
+    }
+  ],
+  "verticals": [
+    {
+      "category": "Academic Affairs",
+      "members": [
+        {
+          "id": "acad-1",
+          "name": "Kailaash RM",
+          "role": "Secretary",
+          "vertical": "Academic Affairs",
+          "image": "/images/team/kailaash.jpg",
+          "email": "am25s005@smail.iitm.ac.in",
+          "socials": {
+            "linkedin": "https://www.linkedin.com/in/kailaash-marimuthu-a4a45a228",
+            "instagram": ""
+          }
+        },
+        {
+          "id": "acad-2",
+          "name": "Anuva Jain",
+          "role": "Core",
+          "vertical": "Academic Affairs",
+          "image": "/images/team/anuva.jpg",
+          "email": "am25b103@smail.iitm.ac.in",
+          "socials": {
+            "linkedin": "https://in.linkedin.com/in/anuva-jain",
+            "instagram": "https://www.instagram.com/anuvaajain"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Industrial Relations",
+      "members": [
+        {
+          "id": "indus-1",
+          "name": "Darshana Nagale",
+          "role": "Secretary",
+          "vertical": "Industrial Relations",
+          "image": "/images/team/darshana.jpeg",
+          "email": "cl25m002@smail.iitm.ac.in",
+          "socials": {
+            "linkedin": "https://www.linkedin.com/in/nagaledarshana2503",
+            "instagram": "https://www.instagram.com/darshana_nagale"
+          }
+        },
+        {
+          "id": "indus-2",
+          "name": "Saatvik Rai",
+          "role": "Core",
+          "vertical": "Industrial Relations",
+          "image": "/images/team/saatvik.jpg",
+          "email": "am25b131@smail.iitm.ac.in",
+          "socials": {
+            "linkedin": "https://www.linkedin.com/in/saatvik-rai",
+            "instagram": "https://www.instagram.com/saatvik.raiii"
+          }
+        },
+        {
+          "id": "indus-3",
+          "name": "Rishi Sujith",
+          "role": "Core",
+          "vertical": "Industrial Relations",
+          "image": "/images/team/rishi.jpg",
+          "email": "am25b128@smail.iitm.ac.in",
+          "socials": {
+            "linkedin": "https://www.linkedin.com/in/rishi-sujith-922554377",
+            "instagram": ""
+          }
+        },
+        {
+          "id": "indus-4",
+          "name": "Sanmitra Goswami",
+          "role": "Core",
+          "vertical": "Industrial Relations",
+          "image": "/images/team/sanmitra.jpg",
+          "email": "am25b134@smail.iitm.ac.in",
+          "socials": {
+            "linkedin": "https://in.linkedin.com/in/sanmitra-goswami-bb9694369",
+            "instagram": ""
+          }
+        }
+      ]
+    },
+    {
+      "category": "Social Media & Design",
+      "members": [
+        {
+          "id": "smd-1",
+          "name": "Abhinav Kumar Singh",
+          "role": "Secretary",
+          "vertical": "Social Media & Design",
+          "image": "/images/team/abhinav.png",
+          "email": "am25m001@smail.iitm.ac.in",
+          "socials": {
+            "linkedin": "https://www.linkedin.com/in/mechinavsingh",
+            "instagram": "https://www.instagram.com/abhinav_kumar_singh_"
+          }
+        },
+        {
+          "id": "smd-2",
+          "name": "Kevin Kumar D",
+          "role": "Core",
+          "vertical": "Social Media & Design",
+          "image": "/images/team/kevin.jpg",
+          "email": "am25b114@smail.iitm.ac.in",
+          "socials": {
+            "linkedin": "https://www.linkedin.com/in/kevin-kumar-d-1a1045413",
+            "instagram": "https://www.instagram.com/_k_v_n_01"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Sponsorship",
+      "members": [
+        {
+          "id": "spons-1",
+          "name": "Maimun Saniya",
+          "role": "Secretary",
+          "vertical": "Sponsorship",
+          "image": "/images/team/maimun.jpg",
+          "email": "am25b119@smail.iitm.ac.in",
+          "socials": {
+            "linkedin": "https://www.linkedin.com/in/maimun-saniya-e-a521b8405",
+            "instagram": ""
+          }
+        },
+        {
+          "id": "spons-2",
+          "name": "Ishan Atraiu Murali",
+          "role": "Core",
+          "vertical": "Sponsorship",
+          "image": "/images/team/ishan.jpeg",
+          "email": "am25b112@smail.iitm.ac.in",
+          "socials": {
+            "linkedin": "",
+            "instagram": "https://www.instagram.com/ishandaboss"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Events Management",
+      "members": [
+        {
+          "id": "events-1",
+          "name": "Sachin Thomas",
+          "role": "Secretary",
+          "vertical": "Events",
+          "image": "/images/team/sachin.jpg",
+          "email": "am25d011@smail.iitm.ac.in",
+          "socials": {
+            "linkedin": "https://www.linkedin.com/in/sachintom",
+            "instagram": ""
+          }
+        },
+        {
+          "id": "events-2",
+          "name": "Gawthaman A",
+          "role": "Core",
+          "vertical": "Events",
+          "image": "/images/team/gawthaman.jpg",
+          "email": "am25b110@smail.iitm.ac.in",
+          "socials": {
+            "linkedin": "https://www.linkedin.com/in/gawthaman-arumugam-79a158413/",
+            "instagram": "https://www.instagram.com/_gawthaman_"
+          }
+        }
+      ]
+    },
+    {
+      "category": "Sports",
+      "members": [
+        {
+          "id": "sports-1",
+          "name": "Punam Roy Suprio",
+          "role": "Secretary",
+          "vertical": "Sports",
+          "image": "/images/team/suprio.jpg",
+          "email": "am25m806@smail.iitm.ac.in",
+          "socials": {
+            "linkedin": "https://www.linkedin.com/in/suprio-roy-992848247",
+            "instagram": "https://www.instagram.com/suprioroy7"
+          }
+        }
+      ]
+    }
+  ]
+}
